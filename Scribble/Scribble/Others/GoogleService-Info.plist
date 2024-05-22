@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyChjP-BxxCmf9sJtehnqNnTH7DGhsBEDpw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>536163878029</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.northwest.Scribble</string>
+	<key>PROJECT_ID</key>
+	<string>scribble-99c1e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scribble-99c1e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:536163878029:ios:1f385536ee9a9b886e4ec4</string>
+</dict>
+</plist>
